@@ -8,23 +8,23 @@ Working with the assets provided by the Bootcamp I was able to create a strong p
  [Bootcamp Homework Three](https://acm4219.github.io/Bootcamp-Homework-Three/02-Homework/Develop)
 
  ### Images
- [Initial Screen](Bootcamp-Homework-Three/02-Homework/homeworkexamples/initialscreen.jpg)
+ [Initial Screen](/homeworkexamples/initialscreen.jpg)
  
- [Number Screen](Bootcamp-Homework-Three/02-Homework/homeworkexamples/digitconfirm.jpg)
+ [Number Screen](/homeworkexamples/digitconfirm.jpg)
  
- [Lowercase Screen](Bootcamp-Homework-Three/02-Homework/homeworkexamples/lowercaseconfirm.jpg)
+ [Lowercase Screen](/homeworkexamples/lowercaseconfirm.jpg)
  
- [Uppercase Screen](Bootcamp-Homework-Three/02-Homework/homeworkexamples/uppercaseconfirm.jpg)
+ [Uppercase Screen](/homeworkexamples/uppercaseconfirm.jpg)
  
- [Special Character Screen](Bootcamp-Homework-Three/02-Homework/homeworkexamples/specialcharacterconfirm.jpg)
+ [Special Character Screen](/homeworkexamples/specialcharacterconfirm.jpg)
  
- [Result page](Bootcamp-Homework-Three/02-Homework/homeworkexamples/resultpage.jpg)
+ [Result page](/homeworkexamples/resultpage.jpg)
  
- [Responsive phone screen](Bootcamp-Homework-Three/02-Homework/homeworkexamples/responsivesmall.jpg)
+ [Responsive phone screen](/homeworkexamples/responsivesmall.jpg)
  
- [Responsive tablet Screen](Bootcamp-Homework-Three/02-Homework/homeworkexamples/responsivemedium.jpg)
+ [Responsive tablet Screen](/homeworkexamples/responsivemedium.jpg)
  
- [Responsive monitor Screen](Bootcamp-Homework-Three/02-Homework/homeworkexamples/responsivefull.jpg)
+ [Responsive monitor Screen](/homeworkexamples/responsivefull.jpg)
 
 ### Usage
 To receive your specialized password all you need to do is select the generate password button and the process begins. The first prompt will ask you for your character length, between 8 and 128 as mentioned earlier. Once that is selected then it will ask you to confirm if you would like numbers included in your password, then uppercase letters, then lowercase letters, and finally if you would like special characters. Once you are through your prompts then you will be able to see your newly made password. From there you can copy and paste it wherever you like.
