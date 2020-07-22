@@ -8,6 +8,7 @@ Working with the assets provided by the Bootcamp I was able to create a strong p
  [Bootcamp Homework Three](https://acm4219.github.io/Bootcamp-Homework-Three/02-Homework/Develop)
 
  ### Images
+ 
  [Initial Screen](/02-Homework/homeworkexamples/initialscreen.jpg)
  
  [Number Screen](/02-Homework/homeworkexamples/digitconfirm.jpg)
