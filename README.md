@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Bootcamp-Homework-Three
+## Password Generator
 
-You can use the [editor on GitHub](https://github.com/acm4219/Bootcamp-Homework-Three/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Description
+Working with the assets provided by the Bootcamp I was able to create a strong password generator. This password generator ranges between 8 to 128 characters at your disposal. The generator utilizes a randomized mixture of numbers, uppercase letters, lowercase letters and special characters. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Live Site:
+ [Bootcamp Homework Three] (https://acm4219.github.io/Bootcamp-Homework-Three/)
 
-### Markdown
+### Usage
+To receive your specialized password all you need to do is select the generate password button and the process begins. The first prompt will ask you for your character length, between 8 and 128 as mentioned earlier. Once that is selected then it will ask you to confirm if you would like numbers included in your password, then uppercase letters, then lowercase letters, and finally if you would like special characters. Once you are through your prompts then you will be able to see your newly made password. From there you can copy and paste it wherever you like.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Credits 
+I was able to work with this code and create the javascript with the code provided by the Bootcamp. Certain processes in my code were found online to make it run more smoothly. I have credited the specifics in notations.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/acm4219/Bootcamp-Homework-Three/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Challenges 
+Some of the challenges that I faced when trying to complete this assignment was mostly putting the skills that I had learned in class together to make the generator work. We reviewed a lot of content to get the basics down but it was formatting that was the challenge. Eventually I was able to sort out how to format it by going back through the lessons to review the syntax on how to put the code together.
