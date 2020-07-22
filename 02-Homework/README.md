@@ -9,13 +9,21 @@ Working with the assets provided by the Bootcamp I was able to create a strong p
 
  ### Images
  [Initial Screen] (Bootcamp-Homework-Three/02-Homework/homeworkexamples/initialscreen.jpg)
+ 
  [Number Screen] (Bootcamp-Homework-Three/02-Homework/homeworkexamples/digitconfirm.jpg)
+ 
  [Lowercase Screen] (Bootcamp-Homework-Three/02-Homework/homeworkexamples/lowercaseconfirm.jpg)
+ 
  [Uppercase Screen] (Bootcamp-Homework-Three/02-Homework/homeworkexamples/uppercaseconfirm.jpg)
+ 
  [Special Character Screen] (Bootcamp-Homework-Three/02-Homework/homeworkexamples/specialcharacterconfirm.jpg)
+ 
  [Result page] (Bootcamp-Homework-Three/02-Homework/homeworkexamples/resultpage.jpg)
+ 
  [Responsive phone screen] (Bootcamp-Homework-Three/02-Homework/homeworkexamples/responsivesmall.jpg)
+ 
  [Responsive tablet Screen] (Bootcamp-Homework-Three/02-Homework/homeworkexamples/responsivemedium.jpg)
+ 
  [Responsive monitor Screen] (Bootcamp-Homework-Three/02-Homework/homeworkexamples/responsivefull.jpg)
 
 ### Usage
