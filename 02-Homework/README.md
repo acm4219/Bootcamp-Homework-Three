@@ -5,7 +5,7 @@
 Working with the assets provided by the Bootcamp I was able to create a strong password generator. This password generator ranges between 8 to 128 characters at your disposal. The generator utilizes a randomized mixture of numbers, uppercase letters, lowercase letters and special characters. 
 
 ### Live Site:
- [Bootcamp Homework Three] (https://acm4219.github.io/Bootcamp-Homework-Three/)
+ [Bootcamp Homework Three] (https://acm4219.github.io/Bootcamp-Homework-Three/02-Homework/Develop)
 
  ### Images
  [Initial Screen] (Bootcamp-Homework-Three/02-Homework/homeworkexamples/initialscreen.jpg)
